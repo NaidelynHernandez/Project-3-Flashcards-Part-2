@@ -1,5 +1,5 @@
 # Project-3-Flashcards-Part-2
-# Web Development Project 3 - *Name of App Here*
+# Web Development Project 3 - *Ultimate Trivia*
 
 Submitted by: **Naidelyn Hernandez**
 
