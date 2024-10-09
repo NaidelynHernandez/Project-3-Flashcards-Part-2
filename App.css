@@ -1,0 +1,31 @@
+body {
+  background-color: papayawhip;
+  text-align: center;
+  display: flex;
+}
+
+.App {
+  display: flex;
+  flex-direction: column; 
+  justify-content: center; 
+  align-items: center;
+}
+
+h1 {
+  color: pink;
+  font-size: 100px;
+}
+
+.homemade-apple-regular {
+  font-family: "Homemade Apple", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.flipcard{
+  padding: 15vh;
+  width: 400px;
+  background-color: rgba(221, 85, 221, 0.062);
+ 
+}
+
